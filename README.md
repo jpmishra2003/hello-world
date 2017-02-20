@@ -1,2 +1,1 @@
-# hello-world
-1st git repositiry
+Jyoti Prakash Mishra is learning git
