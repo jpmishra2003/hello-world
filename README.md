@@ -1,1 +1,3 @@
-Jyoti Prakash Mishra is learning git
+
+# hello-world
+1st git repository
