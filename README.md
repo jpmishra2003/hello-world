@@ -1,2 +1,2 @@
 # hello-world
-1st git repositiry
+1st git repository
